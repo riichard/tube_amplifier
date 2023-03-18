@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "12at7")(type "KiCad")(uri "${KIPRJMOD}/symbols/12AT7.kicad_sym")(options "")(descr ""))
+  (lib (name "el34")(type "KiCad")(uri "${KIPRJMOD}/symbols/EL34.kicad_sym")(options "")(descr ""))
+  (lib (name "custom_symbols")(type "KiCad")(uri "${KIPRJMOD}/custom_symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "gz34")(type "KiCad")(uri "${KIPRJMOD}/symbols/gz34.kicad_sym")(options "")(descr ""))
+)
